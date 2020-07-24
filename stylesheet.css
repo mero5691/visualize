@@ -1,0 +1,108 @@
+body
+{
+    background-image: url(im/bg.jpg);
+    background-size: cover;
+
+}
+#avatar
+{   border-radius: 50%;
+    border: 10px solid rgba(255,255,255,0.1);
+    top:10px;
+}
+.avatar
+{
+    position: relative;
+    top:104px;
+}
+.text p
+{
+    margin: 0px;
+    color: #fff;
+    font-family: candara;
+    font-size: 25px;
+    font-weight: 100;
+    text-align: center;
+}
+.text
+{
+    position: relative;
+    top:150px;
+}
+.grid
+{
+    position: relative;
+    top:230px;
+}
+.divs
+{
+    margin-bottom: 30px;
+    background-color: rgba(255,255,255,0.1);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.divs p
+{
+    padding: 10px;
+    color: white;
+}
+.pic4 img
+{
+    height: 310px;
+    width: 510px;
+}
+.pic5 img
+{
+    height: 275px;
+    width: 510px;
+}
+.pic6 img
+{
+    height: 275px;
+    width: 510px;
+}
+.iconss
+{
+    width: 255px;
+    position: relative;
+    bottom: -265px;
+    text-align: center;
+    
+}
+.iconss i
+{
+    padding: 5px;
+    font-size: 30px;
+    color: rgba(255,255,255,0.7);
+    
+}
+.iconss i:hover
+{
+    color: rgba(255,255,255,1);
+    cursor: pointer;
+}
+
+.line
+{
+    border-top: 1px solid white;
+    width: 100%;
+    position: relative;
+    bottom: -245px;
+   
+}
+.iconss p
+{
+    color: white;
+}
+.iconss p:hover
+{
+    color: black;
+}
+
+
+
+
+
+
+
+
